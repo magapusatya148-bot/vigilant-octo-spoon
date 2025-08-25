@@ -1,0 +1,3 @@
+Magapu satya
+bsc data science-2
+ its fundamental reliance on Git's version control capabilities to facilitate collaborative software development and code management.
